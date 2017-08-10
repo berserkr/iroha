@@ -41,7 +41,7 @@ You need C++14 compilable compiler
 
 ::
 
-    # apt -y install build-essential wget xsltproc autoconf automake libtool shtool unzip libssl-dev
+    # apt -y install build-essential wget xsltproc autoconf automake libtool shtool unzip libssl-dev libpq-dev
 
 
 
